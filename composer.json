@@ -1,0 +1,17 @@
+{
+  "name": "evolutivo/test",
+  "type": "corebos-module",
+  "repositories": [
+    {
+    "type": "vcs",
+    "url": "https://github.com/evolutivo/test"
+    },
+    {
+     "packagist": false
+    }
+  ],
+  "require": {
+    "evolutivo/test": "dev-master"
+  }
+  
+}
