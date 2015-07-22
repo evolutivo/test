@@ -3,7 +3,7 @@
   "type": "corebos-module",
     "repositories": [{
     "type": "vcs",
-    "url": "https://github.com/evolutivo/ComposerInstall"
+    "url": "https://github.com/evolutivo/test"
   }]
     
   
