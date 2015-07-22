@@ -11,7 +11,7 @@
     }
   ],
   "require": {
-    "volutivo/test": "dev-master"
+    "evolutivo/test": "master"
   }
   
 }
