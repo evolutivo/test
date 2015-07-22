@@ -10,5 +10,8 @@
      "packagist": false
     }
     ],
+     "require": {
+  "evolutivo/ComposerInstall": "dev-master",
+     }
   
   }
