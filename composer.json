@@ -1,8 +1,10 @@
 {
   "name": "evolutivo/test",
   "type": "corebos-module",
-    "require": {
-    "evolutivo/test": "dev-master"
-  }
+    {
+    "type": "vcs",
+    "url": "https://github.com/evolutivo/ComposerInstall"
+  },
+    
   
 }
