@@ -9,5 +9,10 @@
     {
      "packagist": false
     }
-    ]
+    ],
+    
+          "scripts": {
+    "post-install-cmd": "evolutivo\\ComposerInstall\\ComposerInstall::postPackageInstall",
+    "post-update-cmd": "evolutivo\\ComposerInstall\\ComposerInstall::postPackageUpdate"
+  }
   }
