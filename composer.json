@@ -4,7 +4,11 @@
     "repositories": [{
     "type": "vcs",
     "url": "https://github.com/evolutivo/test"
-  }]
+  }],
+  "require": {
+  "evolutivo/ComposerInstall": "dev-master",
+  "evolutivo/test": "dev-master"
+  }
     
   
 }
