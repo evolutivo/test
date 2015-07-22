@@ -1,4 +1,5 @@
-{
+{  "name": "evolutivo/test",
+  "type": "corebos-module",
   "repositories": [
   {
     "type": "vcs",
