@@ -1,17 +1,28 @@
 {
-  "name": "evolutivo/test",
-  "type": "corebos-module",
-    "repositories": [{
+  "repositories": [
+  {
     "type": "vcs",
-    "url": "https://github.com/evolutivo/test"
-  }
-  ,
-    {
+    "url": "https://github.com/evolutivo/ComposerInstall"
+  },
+    
+{ 
+
+    "type": "vcs",
+    "url": "https://github.com/evolutivo/test/"
+    },
+
+       {
      "packagist": false
     }
-    ],
-     "require": {
+  ],
+  "require": {
   "evolutivo/ComposerInstall": "dev-master",
-     }
-  
+  "evolutivo/test": "dev-master"
+  },
+          "scripts": {
+    "post-install-cmd": "evolutivo\\ComposerInstall\\ComposerInstall::postPackageInstall",
+    "post-update-cmd": "evolutivo\\ComposerInstall\\ComposerInstall::postPackageUpdate"
   }
+
+  
+}
