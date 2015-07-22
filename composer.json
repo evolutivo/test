@@ -1,12 +1,7 @@
 {
   "name": "evolutivo/test",
   "type": "corebos-module",
-  "repositories": [
-   
-    {
-     "packagist": false
-    }
-  ],
+ 
   "require": {
     "evolutivo/test": "*"
   }
