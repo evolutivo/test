@@ -3,7 +3,7 @@
   "type": "corebos-module",
  
   "require": {
-    "evolutivo/test": "*"
+    "evolutivo/test": "dev-master"
   }
   
 }
