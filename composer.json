@@ -2,7 +2,7 @@
   "name": "evolutivo/test",
   "type": "corebos-module",
   "require": {
-    "evolutivo/test": "dev-master"
+    "evolutivo/test": "*"
   }
   
 }
