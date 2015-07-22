@@ -16,14 +16,7 @@
      "packagist": false
     }
   ],
-  "require": {
-  "evolutivo/ComposerInstall": "dev-master",
-  "evolutivo/test": "dev-master"
-  },
-          "scripts": {
-    "post-install-cmd": "evolutivo\\ComposerInstall\\ComposerInstall::postPackageInstall",
-    "post-update-cmd": "evolutivo\\ComposerInstall\\ComposerInstall::postPackageUpdate"
-  }
+  
 
   
 }
