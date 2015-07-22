@@ -4,10 +4,10 @@
     "repositories": [{
     "type": "vcs",
     "url": "https://github.com/evolutivo/test"
-  }],
-  "require": {
-    "evolutivo/test": "dev-master"
   }
-    
-  
-}
+  ,
+    {
+     "packagist": false
+    }
+    ]
+  }
