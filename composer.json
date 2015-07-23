@@ -4,9 +4,6 @@
   {
     "type": "vcs",
     "url": "https://github.com/evolutivo/ComposerInstall"
-  },{
-    "type": "vcs",
-    "url": "https://github.com/evolutivo/prespective_repo"
   },
        {
      "packagist": false
