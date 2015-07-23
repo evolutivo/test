@@ -11,9 +11,5 @@
        {
      "packagist": false
     }
-  ],
-  "require": {
-    "evolutivo/ComposerInstall": "dev-master",
-    "evolutivo/prespective_repo": "dev-master"
-  }
+  ]
 }
