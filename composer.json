@@ -1,3 +1,12 @@
 {  "name": "evolutivo/test",
-  "type": "corebos-module"
+  "type": "corebos-module",
+  "repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/evolutivo/ComposerInstall"
+  },
+       {
+     "packagist": false
+    }
+  ]
 }
